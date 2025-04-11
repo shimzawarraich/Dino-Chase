@@ -53,27 +53,23 @@ You can find client server in `src/main/java/org/example/Server.java`
 
 ## Screenshots
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-    <img src="./images/screenshot1.png" width="45%" />
-    <img src="./images/screenshot2.png" width="45%" />
-</div>
+<img width="592" alt="Screenshot 2025-04-06 at 10 55 38 PM" src="https://github.com/user-attachments/assets/5fdaa80d-3a29-4d8c-9979-ac5d2cd343bd" />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-    <img src="./images/screenshot3.png" width="30%" />
-    <img src="./images/screenshot4.png" width="30%" />
-    <img src="./images/screenshot5.png" width="30%" />
-</div>
+<img width="592" alt="Screenshot 2025-04-06 at 10 58 13 PM" src="https://github.com/user-attachments/assets/f6ac5b4f-124d-4c67-93d6-80471a386a57" />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-    <img src="./images/screenshot6.png" width="45%" />
-    <img src="./images/screenshot7.png" width="45%" />
-</div>
+<img width="865" alt="Screenshot 2025-04-06 at 11 07 40 PM" src="https://github.com/user-attachments/assets/7a7d9a36-4c1f-4e55-8cd4-e061b88b55aa" />
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-    <img src="./images/screenshot8.png" width="45%" />
-    <img src="./images/screenshot9.png" width="45%" />
-</div>
+<img width="1075" alt="Screenshot 2025-04-06 at 11 10 19 PM" src="https://github.com/user-attachments/assets/59baffa8-1917-4618-9849-b125d9b8ae17" />
 
+<img width="611" alt="Screenshot 2025-04-06 at 11 15 36 PM" src="https://github.com/user-attachments/assets/26fd4694-27b1-4ad0-9dbb-340baa085740" />
+
+<img width="850" alt="Screenshot 2025-04-06 at 11 50 27 PM" src="https://github.com/user-attachments/assets/c59ec594-0b57-4fa9-8a91-4f0d63210412" />
+
+<img width="372" alt="Screenshot 2025-04-06 at 11 22 01 PM" src="https://github.com/user-attachments/assets/607419ff-3560-4833-9de0-b83e925f490f" />
+
+<img width="590" alt="Screenshot 2025-04-06 at 10 59 23 PM" src="https://github.com/user-attachments/assets/068ad158-757d-4851-bb10-dd178720a49b" />
+
+<img width="490" alt="Screenshot 2025-04-06 at 11 00 47 PM" src="https://github.com/user-attachments/assets/4bbaf473-7244-4256-ba44-7aff2e4ccdeb" />
 
 
 ---
