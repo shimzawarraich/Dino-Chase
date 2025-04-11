@@ -92,3 +92,6 @@ You can find client server in `src/main/java/org/example/Server.java`
 - Muskan Morshed 
 - Rameen Khan 
 - Shimza Warraich
+
+*This project was originally submitted as coursework for CSCI2020U Software Systems Development & Integration at Ontario Tech University, Winter 2025.*
+
